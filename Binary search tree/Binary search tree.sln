@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sadler_Callum_a0048295_ICA2_Q1", "Sadler_Callum_a0048295_ICA2_Q1\Sadler_Callum_a0048295_ICA2_Q1.vcxproj", "{1AA65FD7-FF53-4BB4-842C-C7A332CDA214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA65FD7-FF53-4BB4-842C-C7A332CDA214}.Debug|x64.ActiveCfg = Debug|x64
+		{1AA65FD7-FF53-4BB4-842C-C7A332CDA214}.Debug|x64.Build.0 = Debug|x64
+		{1AA65FD7-FF53-4BB4-842C-C7A332CDA214}.Debug|x86.ActiveCfg = Debug|Win32
+		{1AA65FD7-FF53-4BB4-842C-C7A332CDA214}.Debug|x86.Build.0 = Debug|Win32
+		{1AA65FD7-FF53-4BB4-842C-C7A332CDA214}.Release|x64.ActiveCfg = Release|x64
+		{1AA65FD7-FF53-4BB4-842C-C7A332CDA214}.Release|x64.Build.0 = Release|x64
+		{1AA65FD7-FF53-4BB4-842C-C7A332CDA214}.Release|x86.ActiveCfg = Release|Win32
+		{1AA65FD7-FF53-4BB4-842C-C7A332CDA214}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6F6309D-1666-4D67-AD8B-8A85AD9F32EB}
+	EndGlobalSection
+EndGlobal
